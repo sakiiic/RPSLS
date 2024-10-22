@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/src/Rpsls.API/appsettings.Development.json
+/src/Rpsls.API/appsettings.Development.json
+/src/Rpsls.API/Rpsls.API.csproj
+/src/Rpsls.API/Rpsls.API.csproj
